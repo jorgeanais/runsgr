@@ -1,0 +1,2 @@
+# runsgr
+run sgr decont 
